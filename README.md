@@ -11,7 +11,7 @@
   <p>
     <a href="https://featherops.com"><img src="https://img.shields.io/badge/Website-featherops.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
     <a href="https://www.linkedin.com/company/featherops/"><img src="https://img.shields.io/badge/LinkedIn-FeatherOps-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:featherops.cyber@gmail.com"><img src="https://img.shields.io/badge/Contact-security@featherops.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:featherops.cyber@gmail.com"><img src="https://img.shields.io/badge/Contact-featherops.cyber@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
 
